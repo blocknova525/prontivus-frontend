@@ -1,9 +1,8 @@
+@import './styles/design-system.css';
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-/* Import Prontivus Design System */
-@import './styles/design-system.css';
 
 /* CliniCore Medical Design System - Professional medical interface colors and styles */
 
